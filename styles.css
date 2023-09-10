@@ -1,0 +1,185 @@
+.span{
+    font-size: 25px;
+    position: absolute;
+    margin: 25px 10px;
+    font-family: 'Poppins',sans-serif;
+      }
+   body{
+    
+        color: #000000;
+        font-family: 'Poppins', sans-serif;
+        background-color: #ffffff;
+    }
+
+    h1{
+        font-size: 60pt;
+        width: 80%;
+        padding: 60px;
+        padding-left: 100px;
+    }
+    .passage{
+        font-family: 'poppins',sans-serif;
+        font-size: larger;
+        font-weight: 200;
+        margin: -50px 0px;
+        padding: 100px;
+    }
+    .background-color{
+
+        background-color: #f2f2f2;
+        width: viewport;
+        margin-top: 1rem;
+        margin-right: 1rem;
+        margin-left: 1rem;
+    }
+    .navigation{
+
+        width: auto;
+        display: block;
+        align-items: center;
+        margin: auto;
+        overflow: hidden;
+    
+
+    }
+   
+    
+    ul {
+        font-family: sans-serif;
+        list-style-type: none;
+        float: right;
+        display: block;
+        align-items: center;
+        
+    }
+    li {
+        font-size: smaller;
+        font-weight: lighter;
+        display: inline;
+        margin: 0px 18px;
+        font-size: 17px;
+        color: rgb(43, 42, 42);
+        
+        
+    }
+    .Getbutton {
+
+        background-color:#FC5D35;
+        padding: 11px ;
+        width:auto;
+        padding-left: 20px;
+        padding-right: 15px;
+        display: inline-block;
+        color: white;
+    }
+    .search-icon {
+        margin: auto;
+        width: 17px;
+
+    }
+    .shopnow{
+        background-color:#FC5D35;
+        display: inline-block;
+        color: #f7f7f7;
+        padding: 2px 55px;
+        position: relative;
+        top: -30px;
+        left: 100px;
+        
+        margin: 0px 20px 0px 0px;
+    }
+    .contactus{
+        background-color: rgb(0, 0, 0);
+        display: inline-block;
+        color: white;
+        padding: 2px 55px;
+        position: relative;
+        top: -30px;
+        left: 100px;
+
+    }
+    
+    
+    .orange{
+        width: 360px;
+        font-family: 'poppins',sans-serif;
+        font-size: 13px;
+        color: #000000;
+        border:0.5px solid #000000;
+        border-radius: 5px;
+        margin: 20px;
+        padding: 40px 10px 10px;
+        display: inline-block;
+    
+    }
+    .grapes{
+        width: 360px;
+        font-family: 'poppins',sans-serif;
+        font-size: 13px;
+        color: #000000;
+        border:0.5px solid #000000;
+        border-radius: 5px;
+        margin: 20px;
+        padding: 40px 10px 10px;
+        display: inline-block;
+        
+       
+    }
+    .gauva{
+        width: 360px;
+        font-family: 'poppins',sans-serif;
+        font-size: 13px;
+        color: #000000;
+        border:0.5px solid #000000;
+        border-radius: 5px;
+        margin: 20px;
+        padding: 40px 10px 10px;
+        display: inline-block;
+        
+       
+    }
+    hr{
+        width: 60%;
+        margin: 0px;
+    }
+    table{
+       
+        margin: 30px;
+
+        
+    }
+    td{
+        width: 350px;
+        text-align: left;
+    }
+
+    /* contact section */
+
+.contact_section {
+background-image: url(orange-dish.png);
+background-repeat: no-repeat;
+background-size: 220px;
+background-position: right center;
+}
+
+.contact_section input {
+border: none;
+outline: none;
+border-bottom: .8px solid #252525;
+width: 60%;
+margin: 20px 0;
+}
+
+.contact_form-container {
+padding: 15px 15px 80px 0;
+
+}
+
+.contact_form-container button {
+border: none;
+background-color: #fc5d35;
+color: #fff;
+padding: 8px 40px;
+text-transform: uppercase;
+font-size: 14px;
+}
